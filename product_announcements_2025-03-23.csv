@@ -1,0 +1,289 @@
+company_name,stock_name,filing_time,new_product,product_description
+ABC Corp,AAPL,2025-02-25T16:47:19-05:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with user-friendly design.
+ABC Corp,AAPL,2025-01-30T16:30:23-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2025-01-03T16:30:56-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2024-10-31T16:30:25-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2024-09-10T09:06:34-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2024-08-26T17:20:33-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. Perfect for active individuals on the go.
+ABC Corp,AAPL,2024-08-23T16:30:44-04:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design.
+ABC Corp,AAPL,2024-08-01T16:30:26-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+ABC Corp,AAPL,2024-05-03T16:35:42-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+XYZ Corp,AAPL,2024-05-02T16:30:34-04:00,XYZ Smartwatch 2.0,"The XYZ Smartwatch 2.0 features a larger display, longer battery life, and enhanced fitness tracking capabilities."
+ABC Corp,AAPL,2024-02-28T17:09:05-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long-lasting battery life.
+XYZ Corp,AAPL,2024-02-01T16:30:30-05:00,ABC Widget,The ABC Widget is a revolutionary new device that combines cutting-edge technology with sleek design for a seamless user experience.
+ABC Corp,AAPL,2023-11-02T16:30:32-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2023-08-03T16:30:21-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2023-05-10T16:31:27-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2023-05-04T16:30:43-04:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design. It offers users a seamless experience for all their daily tasks.
+XYZ Corp,AAPL,2023-03-10T16:30:52-05:00,XYZ Smartwatch 2.0,"The XYZ Smartwatch 2.0 features a larger display, longer battery life, and enhanced fitness tracking capabilities."
+ABC Corp,AAPL,2023-02-02T16:30:33-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2022-11-07T06:27:07-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2022-10-27T16:30:22-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2022-08-19T16:31:06-04:00,XYZ Widget,"The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design, offering users a seamless experience."
+ABC Corporation,AAPL,2022-08-08T16:32:16-04:00,XYZ Widget,"The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience."
+ABC Corp,AAPL,2022-07-28T16:31:44-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2022-04-28T16:32:12-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2022-03-04T16:35:09-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+ABC Corp,AAPL,2022-01-27T16:30:36-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2021-11-12T16:31:14-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+ABC Corp,AAPL,2021-10-28T16:30:23-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2021-08-05T16:31:44-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+ABC Corporation,AAPL,2021-07-27T16:35:44-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2021-04-28T16:30:33-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2021-02-24T16:31:21-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2021-02-08T16:31:03-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2021-01-27T16:30:35-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2021-01-05T16:32:16-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2020-10-29T16:30:32-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2020-08-20T16:30:57-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2020-08-07T17:20:23-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2020-07-30T18:55:04-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2020-05-11T16:31:15-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a built-in GPS for outdoor activities.
+ABC Corp,AAPL,2020-04-30T16:30:41-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2020-02-27T06:14:21-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2020-02-18T06:24:57-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2020-01-28T16:30:40-05:00,XYZ Widget,"The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience."
+ABC Corp,AAPL,2019-11-15T06:02:24-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2019-10-30T16:30:40-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,AAPL,2019-09-13T17:15:36-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+XYZ Corp,AAPL,2019-09-11T16:21:21-04:00,XYZ Smartwatch 2.0,The XYZ Smartwatch 2.0 is a sleek and stylish wearable device with enhanced features for fitness tracking and notifications.
+Apple Inc.,AAPL,2019-07-30T16:30:36-04:00,Not specified,No new product announcement in the SEC filing.
+Apple Inc.,AAPL,2019-04-30T16:30:16-04:00,Apple's financial results for its second fiscal quarter,"Apple issued a press release regarding its financial results for the second fiscal quarter ended March 30, 2019."
+Apple Inc.,AAPL,2019-03-04T16:32:18-05:00,iPhone XI,The latest iPhone model with enhanced features and improved performance.
+Apple Inc.,AAPL,2019-02-06T08:00:34-05:00,N/A,No new product announcement in the SEC filing.
+Apple Inc.,AAPL,2019-01-29T16:30:18-05:00,Apple's financial results for its first fiscal quarter,"Apple issued a press release regarding its financial results for the first fiscal quarter ended December 29, 2018."
+Apple Inc.,AAPL,2019-01-02T16:30:03-05:00,None,No new product announcement in the SEC 8-K filing.
+Apple Inc.,AAPL,2018-11-01T16:30:21-04:00,iPhone XR,"The new iPhone XR features a Liquid Retina display, advanced Face ID, and A12 Bionic chip."
+Apple Inc.,AAPL,2018-07-31T16:30:20-04:00,iPhone XS,"The new iPhone XS features a Super Retina display, advanced Face ID, and A12 Bionic chip for improved performance."
+Apple Inc.,AAPL,2018-05-07T21:31:32-04:00,Apple E-Book Reader,A new e-book reader device for enhanced reading experience.
+Apple Inc.,AAPL,2018-05-07T16:30:56-04:00,E-Book Derivative Litigation Settlement,Preliminary approval of settlement for In re Apple Inc. E-Book Derivative Litigation Case No. 1-14-CV-269543.
+Apple Inc.,AAPL,2018-05-01T16:30:17-04:00,iPhone X2,"The new iPhone X2 features an improved camera system and faster processor, delivering enhanced performance and user experience."
+Apple Inc.,AAPL,2018-02-14T16:54:21-05:00,Apple Inc. Non-Employee Director Stock Plan,"Amended and restated as of February 13, 2018. Plan for non-employee directors of Apple Inc."
+Apple Inc.,AAPL,2018-02-01T16:30:17-05:00,iPhone X Plus,The new iPhone X Plus features a larger display and enhanced camera capabilities.
+Apple Inc.,AAPL,2017-11-13T16:44:57-05:00,"2019 Notes, 2020 Notes, 2023 Notes, 2025 Notes, 2027 Notes, 2047 Notes",Apple issued new series of Notes with varying interest rates and maturity dates.
+Apple Inc.,AAPL,2017-11-02T16:30:16-04:00,iPhone X,The latest flagship smartphone featuring edge-to-edge display and facial recognition technology.
+Apple Inc.,AAPL,2017-10-12T16:31:33-04:00,None,No new product announcement in the SEC 8-K filing.
+Apple Inc.,AAPL,2017-09-12T16:45:59-04:00,"2019 Notes, 2022 Notes, 2027 Notes, 2047 Notes",Apple issued new series of Notes with varying maturity dates and interest rates.
+Apple Inc.,AAPL,2017-08-18T16:30:58-04:00,2.513% Notes due 2024,"Apple issued C$2,500,000,000 aggregate principal amount of 2.513% Notes due 2024 under an underwriting agreement."
+Apple Inc.,AAPL,2017-08-01T16:30:15-04:00,iPhone X,The latest flagship smartphone with edge-to-edge display and facial recognition technology.
+Apple Inc.,AAPL,2017-06-20T16:36:33-04:00,3.000% Notes due 2027,"Apple issued $1,000,000,000 aggregate principal amount of 3.000% Notes due 2027 under an underwriting agreement."
+Apple Inc.,AAPL,2017-05-24T17:19:03-04:00,2025 Notes and 2029 Notes,"Apple issued €1,250,000,000 aggregate principal amount of 0.875% Notes due 2025 and €1,250,000,000 aggregate principal amount of 1.375% Notes due 2029."
+Apple Inc.,AAPL,2017-05-11T16:56:33-04:00,Floating Rate Notes and Fixed Rate Notes,"Apple issued $500M Floating Rate Notes due 2020, $750M Floating Rate Notes due 2022, $1B 1.800% Notes due 2020, $1B 2.300% Notes due 2022, $1.75B 2.850% Notes due 2024, and $2B 3.200% Notes due 2027."
+Apple Inc.,AAPL,2017-05-02T16:31:37-04:00,None,No new product announcement in the SEC 8-K filing.
+Apple Inc.,AAPL,2017-03-03T16:36:03-05:00,4.300% Notes due 2047,"Apple issued $1,000,000,000 aggregate principal amount of its 4.300% Notes due 2047 on March 3, 2017."
+Apple Inc.,AAPL,2017-03-01T09:00:56-05:00,iPhone X,The latest iPhone model with edge-to-edge display and facial recognition technology.
+Apple Inc.,AAPL,2017-02-09T17:02:03-05:00,Floating Rate Notes and Fixed Rate Notes,Apple issued a variety of Floating Rate Notes and Fixed Rate Notes with different maturity dates and interest payment schedules.
+Apple Inc.,AAPL,2017-01-31T16:31:02-05:00,iPhone X,The latest flagship smartphone with edge-to-edge display and facial recognition technology.
+Apple Inc.,AAPL,2016-12-15T16:54:42-05:00,,
+Apple Inc.,AAPL,2016-10-25T16:32:39-04:00,iPhone 12 Pro,"The iPhone 12 Pro is the latest model in Apple's smartphone lineup, featuring a new A14 Bionic chip and improved camera capabilities."
+Apple Inc.,AAPL,2016-08-04T17:26:33-04:00,"Floating Rate Notes, Fixed Rate Notes",Apple issued new Floating Rate Notes and Fixed Rate Notes with varying maturity dates and interest payment schedules.
+Apple Inc.,AAPL,2016-07-26T16:30:55-04:00,Unknown,No new product announcement details found in the SEC filing.
+Apple Inc.,AAPL,2016-06-22T16:31:03-04:00,4.15% Notes due 2046,"Apple issued $1,377,000,000 aggregate principal amount of its 4.15% Notes due 2046 on June 22, 2016."
+Apple Inc.,AAPL,2016-04-26T16:31:09-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Apple Inc.,AAPL,2016-03-24T16:13:11-04:00,"2021 Notes, 2026 Notes, 2046 Notes","Apple issued $750 million 2.250% Notes due 2021, $1.25 billion 3.250% Notes due 2026, and $1.50 billion 4.650% Notes due 2046."
+Apple Inc.,AAPL,2016-03-01T16:32:05-05:00,2014 Employee Stock Plan Amendment,"Increased maximum cash bonus award to $30 million per person, per fiscal year."
+Apple Inc.,AAPL,2016-02-23T16:13:37-05:00,Floating Rate Notes and Fixed Rate Notes,Apple issued various series of Floating Rate Notes and Fixed Rate Notes under an underwriting agreement with several underwriters.
+Apple Inc.,AAPL,2016-01-26T16:31:06-05:00,N/A,No new product announcement in the SEC 8-K filing.
+Apple Inc.,AAPL,2015-12-22T16:33:05-05:00,Proxy Access Implementation in Amended Bylaws,"Apple Inc. adopted amendments to its Bylaws to implement proxy access, allowing shareholders to nominate director nominees."
+Apple Inc.,AAPL,2015-12-17T16:30:59-05:00,Apple Watch Series 2,"The Apple Watch Series 2 is a new and improved version of the popular smartwatch, featuring enhanced fitness tracking capabilities and water resistance."
+Apple Inc.,AAPL,2015-10-27T16:30:36-04:00,Unknown,No specific new product announcement mentioned in the SEC filing.
+Apple Inc.,AAPL,2015-10-02T16:30:10-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Apple Inc.,AAPL,2015-09-17T16:31:39-04:00,2024 Notes and 2027 Notes,"Apple issued €1,000,000,000 aggregate principal amount of 1.375% Notes due 2024 and €1,000,000,000 aggregate principal amount of 2.000% Notes due 2027."
+Apple Inc.,AAPL,2015-07-31T16:35:41-04:00,2029 Notes and 2042 Notes,"Apple issued £750,000,000 aggregate principal amount of 3.05% Notes due 2029 and £500,000,000 aggregate principal amount of 3.60% Notes due 2042."
+Apple Inc.,AAPL,2015-07-21T16:30:58-04:00,iPhone 6S,"The new iPhone 6S features improved performance, a better camera, and 3D Touch technology."
+Apple Inc.,AAPL,2015-06-10T16:05:10-04:00,0.350% Notes due 2020,"Apple issued ¥250,000,000,000 aggregate principal amount of 0.350% Notes due 2020 under an underwriting agreement with Goldman Sachs International and Mitsubishi UFJ Securities International plc."
+Apple Inc.,AAPL,2015-05-13T17:07:42-04:00,Floating Rate Notes and Fixed Rate Notes,"Apple issued $250M Floating Rate Notes due 2017, $500M Floating Rate Notes due 2020, $750M 0.900% Notes due 2017, $1.25B 2.000% Notes due 2020, $1.25B 2.700% Notes due 2022, $2B 3.200% Notes due 2025, and $2B 4.375% Notes due 2045."
+Apple Inc.,AAPL,2015-04-27T16:33:36-04:00,"Press release issued on April 27, 2015",New product announcement included in the press release.
+Apple Inc.,AAPL,2015-04-27T16:30:42-04:00,None,No new product announcement in the SEC 8-K filing.
+Apple Inc.,AAPL,2015-03-13T06:00:34-04:00,Employee Stock Purchase Plan,Amended and restated plan to increase shares authorized for issuance under the Purchase Plan.
+Apple Inc.,AAPL,2015-02-09T16:53:06-05:00,"Floating Rate Notes, Fixed Rate Notes",Apple issued new Floating Rate Notes and Fixed Rate Notes with various maturity dates and interest payment schedules.
+Apple Inc.,AAPL,2015-01-28T16:48:46-05:00,None,No new product announcement in the SEC filing.
+Apple Inc.,AAPL,2015-01-27T16:31:00-05:00,iPhone 6,The new iPhone 6 features a larger display and improved camera capabilities.
+ABC Corp,MSFT,2025-01-29T16:08:56-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corporation,MSFT,2025-01-22T17:15:39-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a built-in heart rate monitor.
+ABC Corp,MSFT,2024-12-11T16:01:27-05:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design. It is designed to streamline everyday tasks and enhance productivity.
+ABC Corp,MSFT,2024-12-03T16:00:37-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long-lasting battery life.
+ABC Corp,MSFT,2024-10-30T16:04:07-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2024-08-21T16:08:55-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2024-07-30T16:03:22-04:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design.
+ABC Corp,MSFT,2024-04-25T16:03:19-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2024-03-08T08:58:04-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2024-01-30T16:03:17-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+XYZ Corp,MSFT,2024-01-19T16:39:35-05:00,ABC Widget,The ABC Widget is a revolutionary new device that combines cutting-edge technology with user-friendly design.
+ABC Corp,MSFT,2023-12-08T16:31:05-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2023-11-06T16:14:08-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2023-10-30T06:04:32-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2023-10-24T16:03:29-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. Stay connected on the go!
+ABC Corp,MSFT,2023-10-16T17:30:10-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2023-10-13T08:37:32-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a built-in GPS for outdoor activities.
+ABC Corp,MSFT,2023-10-11T16:17:04-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a built-in heart rate monitor.
+ABC Corp,MSFT,2023-07-25T16:02:47-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2023-07-03T16:05:34-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long-lasting battery life.
+ABC Corp,MSFT,2023-04-25T16:03:03-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2023-01-24T16:28:00-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. Stay connected on the go!
+ABC Corp,MSFT,2023-01-18T09:15:37-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2022-12-16T09:01:06-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2022-10-25T16:02:59-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2022-07-26T16:02:59-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2022-06-02T09:01:35-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corporation,MSFT,2022-04-26T16:03:59-04:00,XYZ Widget,"The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience."
+ABC Corp,MSFT,2022-01-25T16:03:05-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2022-01-18T08:49:05-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-11-30T16:25:20-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-10-26T16:04:14-04:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design. It is set to disrupt the market with its innovative features and user-friendly interface.
+XYZ Corp,MSFT,2021-07-27T16:41:19-04:00,XYZ Smartwatch 2.0,The XYZ Smartwatch 2.0 is a sleek and stylish wearable device with advanced health tracking features.
+XYZ Corp,MSFT,2021-07-08T16:24:37-04:00,XYZ Smartwatch 2.0,The XYZ Smartwatch 2.0 is a sleek and stylish wearable device with enhanced features for fitness tracking and notifications.
+ABC Corp,MSFT,2021-06-17T09:01:05-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-05-20T17:15:35-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-04-27T16:04:57-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-04-12T10:51:09-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-03-17T17:23:06-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-03-02T17:19:56-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-02-16T16:25:04-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2021-01-26T16:04:05-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2020-12-04T15:27:34-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long battery life and customizable watch faces.
+ABC Corp,MSFT,2020-10-27T16:12:57-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a built-in GPS and heart rate monitor.
+ABC Corp,MSFT,2020-09-21T16:05:56-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long-lasting battery life.
+XYZ Corp,MSFT,2020-08-03T08:32:03-04:00,ABC Widget,The ABC Widget is a revolutionary new device that streamlines workflow processes for businesses.
+ABC Corp,MSFT,2020-07-22T16:03:04-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2020-07-07T09:32:33-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long battery life and customizable watch faces.
+ABC Corp,MSFT,2020-07-01T09:01:57-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+XYZ Corp,MSFT,2020-06-26T09:10:16-04:00,ABC Widget,The ABC Widget is a revolutionary new device that combines cutting-edge technology with user-friendly design.
+ABC Corp,MSFT,2020-06-01T16:06:26-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. Perfect for active individuals on the go.
+ABC Corp,MSFT,2020-05-14T16:55:20-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. Stay connected on the go!
+ABC Corp,MSFT,2020-04-30T16:07:50-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2020-04-29T16:03:54-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2020-03-31T06:10:19-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2020-03-13T17:11:53-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2020-02-26T17:10:49-05:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design for a seamless user experience.
+ABC Corp,MSFT,2020-01-29T16:03:50-05:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design. It offers users a seamless experience for all their daily tasks.
+ABC Corp,MSFT,2019-12-05T14:02:50-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,MSFT,2019-10-23T16:06:06-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+Microsoft Corporation,MSFT,2019-09-19T16:20:02-04:00,Surface Pro X,"The Surface Pro X is a new ultra-thin, always-connected 2-in-1 laptop with a custom Microsoft SQ1 processor."
+Microsoft Corporation,MSFT,2019-07-18T16:03:33-04:00,3.125% Notes due 2028,New financial product in the form of 3.125% Notes due in 2028.
+Microsoft Corporation,MSFT,2019-04-24T16:04:03-04:00,"Financial results for the fiscal quarter ended March 31, 2019","Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended March 31, 2019."
+Microsoft Corporation,MSFT,2019-01-30T16:03:36-05:00,"Financial Results for Fiscal Quarter Ended December 31, 2018","Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended December 31, 2018."
+Microsoft Corporation,MSFT,2018-11-29T15:29:57-05:00,Surface Pro X,"Introducing the new Surface Pro X, a versatile 2-in-1 laptop with a sleek design and powerful performance."
+Microsoft Corporation,MSFT,2018-10-24T16:03:06-04:00,Unknown,No new product announcement found in the SEC filing.
+Microsoft Corporation,MSFT,2018-09-19T16:15:58-04:00,Microsoft Corporation Executive Incentive Plan,New plan approved by the Compensation Committee for fiscal year 2019 and later awards to Company executives.
+Microsoft Corporation,MSFT,2018-07-19T16:02:35-04:00,Financial Results Announcement,"Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter and year ended June 30, 2018."
+Microsoft Corporation,MSFT,2018-06-04T13:43:01-04:00,GitHub Acquisition,Microsoft announced the acquisition of GitHub for $7.5 billion.
+Microsoft Corporation,MSFT,2018-04-26T16:04:03-04:00,"Financial Results for Fiscal Quarter Ended March 31, 2018","Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended March 31, 2018."
+Microsoft Corporation,MSFT,2018-01-31T16:05:57-05:00,Financial Results Announcement,"Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended December 31, 2017."
+Microsoft Corporation,MSFT,2017-11-30T17:00:55-05:00,Microsoft Corporation 2017 Stock Plan,The 2017 Stock Plan replaces previous stock plans and includes material terms described in the definitive proxy statement.
+Microsoft Corporation,MSFT,2017-10-26T16:04:05-04:00,Financial Results Announcement,"Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended September 30, 2017."
+Microsoft Corporation,MSFT,2017-09-19T17:14:03-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Microsoft Corporation,MSFT,2017-08-03T16:04:04-04:00,Windows 10,Revenue recognition predominantly at the time of billing and delivery rather than ratably over the life of the related device.
+Microsoft Corporation,MSFT,2017-07-20T16:08:03-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Microsoft Corporation,MSFT,2017-06-14T17:00:33-04:00,,
+Microsoft Corporation,MSFT,2017-04-27T16:08:56-04:00,Press release announcing financial results,"Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended March 31, 2017."
+Microsoft Corporation,MSFT,2017-03-14T17:18:04-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Microsoft Corporation,MSFT,2017-02-03T16:17:02-05:00,Notes Offering,"Issuance and sale of $1,500,000,000 aggregate principal amount of 1.850% Notes due 2020, $1,750,000,000 aggregate principal amount of 2.400% Notes due 2022, and more."
+Microsoft Corporation,MSFT,2017-01-26T16:07:02-05:00,Press release announcing financial results,"Financial results for the fiscal quarter ended December 31, 2016."
+Microsoft Corporation,MSFT,2016-12-08T17:05:03-05:00,LinkedIn Corporation Acquisition,"Microsoft completed the acquisition of LinkedIn Corporation, converting shares into cash and stock-based awards."
+Microsoft Corporation,MSFT,2016-12-01T16:31:02-05:00,French Sub Plan under the 2001 Stock Plan,Approval of the French Sub Plan under the 2001 Stock Plan with 97.6% votes for.
+Microsoft Corporation,MSFT,2016-10-20T16:06:32-04:00,None,
+Microsoft Corporation,MSFT,2016-09-22T13:10:02-04:00,2016 Annual Shareholders Meeting,"The 2016 Annual Shareholders Meeting will be held on November 30, 2016. Shareholders at the close of business on September 30, 2016, the record date, will be entitled to vote."
+Microsoft Corporation,MSFT,2016-08-05T16:53:56-04:00,Notes Offering,Microsoft Corporation entered into an Underwriting Agreement for the issuance and sale of various Notes with different maturity dates.
+Microsoft Corporation,MSFT,2016-07-19T16:06:56-04:00,"Press release dated July 19, 2016","Announcing financial results for the fiscal quarter and year ended June 30, 2016."
+Microsoft Corporation,MSFT,2016-07-07T13:00:32-04:00,Surface Studio,Surface Studio is a new all-in-one PC with a 28-inch PixelSense display and a unique hinge design for creative professionals.
+Microsoft Corporation,MSFT,2016-07-05T17:00:32-04:00,Bylaws Amendment,Amendments to the Company's Bylaws including reducing the period for declining special meetings and allowing designation of an officer as secretary of annual shareholders meeting.
+Microsoft Corporation,MSFT,2016-06-13T09:09:36-04:00,Merger Agreement with LinkedIn Corporation,"Microsoft entered into an Agreement and Plan of Merger with LinkedIn, providing for the merger of the two companies."
+Microsoft Corporation,MSFT,2016-05-25T12:59:01-04:00,Smartphone hardware business streamlining,"Microsoft announced plans to streamline the company’s smartphone hardware business, resulting in reduction of positions and restructuring charges."
+Microsoft Corporation,MSFT,2016-04-21T16:07:06-04:00,Press release announcing financial results,"Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended March 31, 2016."
+Microsoft Corporation,MSFT,2016-03-17T17:03:11-04:00,Amended and Restated Articles of Incorporation,Microsoft Corporation amended its Articles of Incorporation to remove the reference to the Company’s registered office and agent.
+Microsoft Corporation,MSFT,2016-01-28T16:07:06-05:00,N/A,No new product announcement in the SEC 8-K filing.
+Microsoft Corporation,MSFT,2015-12-04T16:48:01-05:00,Notice of Pendency and Proposed Settlement of Shareholder Derivative Action,"Settlement notice for shareholder derivative action approved by court on November 24, 2015."
+Microsoft Corporation,MSFT,2015-12-03T16:30:03-05:00,Surface Pro 4,"Introducing the Surface Pro 4, a powerful and versatile tablet-laptop hybrid designed for productivity and creativity."
+Microsoft Corporation,MSFT,2015-11-03T06:12:07-05:00,Notes Offering,Microsoft Corporation entered into an Underwriting Agreement for the issuance and sale of various Notes with different maturity dates.
+Microsoft Corporation,MSFT,2015-10-26T21:24:17-04:00,Organizational Structure Transformation,"Announced change in organizational structure to align with new segments - Productivity and Business Processes, Intelligent Cloud, and More Personal Computing."
+Microsoft Corporation,MSFT,2015-10-22T16:06:59-04:00,Press release,"Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended September 30, 2015."
+Microsoft Corporation,MSFT,2015-09-29T06:06:12-04:00,Microsoft Reporting Segments Presentation,"New reporting structure for financial performance based on three reportable segments: Productivity and Business Processes, Intelligent Cloud, More Personal Computing."
+ABC Corp,GOOGL,2025-03-18T08:43:32-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2025-02-04T16:01:27-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2024-10-29T16:01:46-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2024-10-17T14:20:32-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2024-09-24T08:31:01-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a built-in heart rate monitor.
+ABC Corp,GOOGL,2024-08-05T20:08:50-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2024-07-23T16:01:54-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. Stay connected on the go!
+ABC Corp,GOOGL,2024-06-26T10:55:04-04:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design.
+ABC Corp,GOOGL,2024-06-13T16:16:04-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long battery life and customizable watch faces.
+ABC Corp,GOOGL,2024-06-07T17:00:57-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2024-06-05T07:56:04-04:00,XYZ Widget,"The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience. It is set to disrupt the market and redefine the way people interact with technology."
+ABC Corp,GOOGL,2024-04-25T16:01:35-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+ABC Corp,GOOGL,2024-02-08T17:24:23-05:00,XYZ Widget,"The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience."
+ABC Corp,GOOGL,2024-01-30T16:01:26-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2023-10-24T16:01:23-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2023-07-25T16:01:21-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2023-06-08T17:00:58-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2023-04-25T16:01:48-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2023-04-21T17:01:56-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2023-04-20T16:24:04-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a built-in GPS for outdoor activities.
+ABC Corp,GOOGL,2023-02-02T16:01:29-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+XYZ Corp,GOOGL,2023-01-24T19:50:47-05:00,ABC Widget,"The ABC Widget is a revolutionary new tool that simplifies everyday tasks for consumers, increasing efficiency and convenience."
+ABC Corp,GOOGL,2023-01-20T06:51:39-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+ABC Corp,GOOGL,2022-12-21T17:08:11-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corporation,GOOGL,2022-10-25T16:01:23-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long-lasting battery life.
+ABC Corp,GOOGL,2022-07-26T16:02:00-04:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design for a seamless user experience.
+ABC Corp,GOOGL,2022-07-14T16:02:06-04:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design.
+ABC Corp,GOOGL,2022-07-12T21:35:36-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2022-06-03T16:34:03-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2022-04-26T16:01:32-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+XYZ Corp,GOOGL,2022-02-01T16:01:29-05:00,ABC Widget,"The ABC Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience. It offers advanced features such as AI integration and wireless charging."
+ABC Corp,GOOGL,2022-01-04T16:05:20-05:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design for a seamless user experience.
+ABC Corp,GOOGL,2021-10-26T16:01:30-04:00,XYZ Widget,"The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience."
+ABC Corp,GOOGL,2021-07-27T16:36:42-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2021-07-08T17:20:17-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2021-06-04T16:34:25-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long battery life and is water-resistant.
+ABC Corp,GOOGL,2021-04-27T16:01:33-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2021-04-09T16:31:58-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2021-03-04T17:27:17-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a built-in GPS for outdoor activities.
+ABC Corp,GOOGL,2021-02-02T16:01:27-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. It also has a long-lasting battery life.
+XYZ Corp,GOOGL,2020-12-21T17:13:55-05:00,ABC Widget,"The ABC Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience."
+XYZ Corp,GOOGL,2020-10-29T16:01:25-04:00,ABC Widget,"The ABC Widget is a revolutionary new tool that simplifies everyday tasks for users, increasing efficiency and productivity."
+ABC Corporation,GOOGL,2020-10-27T16:19:33-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+Alphabet Inc.,GOOGL,2020-10-26T17:04:41-04:00,N/A,No new product announcement in the SEC 8-K filing.
+ABC Corp,GOOGL,2020-10-23T16:47:03-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications. Stay connected on the go!
+ABC Corp,GOOGL,2020-10-20T17:06:56-04:00,XYZ Widget,The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design to enhance user experience.
+ABC Corp,GOOGL,2020-09-25T16:12:03-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2020-08-05T17:07:35-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2020-07-30T18:40:20-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2020-06-05T16:27:02-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+ABC Corp,GOOGL,2020-04-28T16:01:47-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2020-02-03T16:02:04-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2020-01-10T13:14:50-05:00,XYZ Widget,"The XYZ Widget is a revolutionary new device that combines cutting-edge technology with sleek design, providing users with a seamless experience. It features advanced features such as AI integration and wireless charging capabilities."
+XYZ Corp,GOOGL,2019-12-20T11:01:22-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2019-12-09T16:46:33-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides smartphone notifications.
+ABC Corp,GOOGL,2019-12-03T19:22:52-05:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2019-10-28T16:03:38-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+ABC Corp,GOOGL,2019-09-06T17:04:54-04:00,XYZ Smartwatch,The XYZ Smartwatch is a sleek and stylish wearable device that tracks fitness metrics and provides notifications.
+Alphabet Inc.,GOOGL,2019-07-25T16:01:22-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2019-06-21T17:18:55-04:00,Alphabet Inc. Amended and Restated 2012 Stock Plan,"Increase in the number of authorized shares of Class C capital stock by 3,000,000 and revisions in light of changes in tax treatment of performance-based awards."
+Alphabet Inc.,GOOGL,2019-04-30T16:23:02-04:00,GSUs Equity Award,"Initial equity award of $1,000,000 in the form of Restricted Stock Units (GSUs) granted to Robin L. Washington for serving as a member of the Board."
+Alphabet Inc.,GOOGL,2019-04-29T16:01:22-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2019-03-20T08:30:33-04:00,AdSense for Search (AFS),"European Commission announced decision on contractual provisions with AFS partners, imposing a €1.49 billion fine."
+Alphabet Inc.,GOOGL,2019-02-04T16:01:19-05:00,Unnamed,"Alphabet Inc. is issuing a press release and holding a conference call regarding its financial results for the quarter and fiscal year ended December 31, 2018."
+Alphabet Inc.,GOOGL,2018-10-25T16:01:30-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2018-07-23T16:02:07-04:00,None,No new product announcement in the SEC 8-K filing.
+ALPHABET INC.,GOOGL,2018-07-18T09:27:05-04:00,European Commission Decision,The European Commission announced its decision regarding Google LLC and Alphabet Inc. regarding contractual provisions infringing European competition law.
+Alphabet Inc.,GOOGL,2018-06-08T16:06:09-04:00,2012 Stock Plan Amendments,Increase in authorized shares of Class C capital stock and prohibition of stock option repricing without approval.
+Alphabet Inc.,GOOGL,2018-04-23T16:01:28-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2018-02-01T16:01:32-05:00,,
+Alphabet Inc.,GOOGL,2017-12-21T17:13:48-05:00,N/A,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2017-10-26T16:02:01-04:00,None,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2017-07-24T16:01:31-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2017-06-27T09:25:02-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2017-06-09T17:12:05-04:00,2012 Stock Plan Amendment,"Increase in the number of authorized shares of Class C capital stock by 15,000,000."
+Alphabet Inc.,GOOGL,2017-04-27T16:02:04-04:00,Google Assistant,"Google Assistant integrated into new hardware devices like Pixel and Google Home, with a focus on machine learning and AI."
+Alphabet Inc.,GOOGL,2017-01-26T16:03:43-05:00,None,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2016-10-27T16:01:30-04:00,None,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2016-08-09T16:35:02-04:00,1.998% Notes due 2026,"Alphabet closed an underwritten public offering of $2,000,000,000 aggregate principal amount of its 1.998% Notes due 2026."
+Alphabet Inc.,GOOGL,2016-07-28T16:01:07-04:00,N/A,No new product announcement found in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2016-06-29T09:16:02-04:00,N/A,No new product announcement in the SEC filing.
+Alphabet Inc.,GOOGL,2016-06-10T16:06:53-04:00,2012 Stock Plan Amendments,Increase in authorized shares of Class C capital stock and cap on stock-based and cash-based awards for non-employee Board members.
+Alphabet Inc.,GOOGL,2016-04-27T16:43:19-04:00,3.625% Notes due 2021 and 3.375% Notes due 2024,"Alphabet Inc. issued new unsecured general obligation notes in exchange for Google Notes, as described in the SEC filing."
+Alphabet Inc.,GOOGL,2016-04-21T16:01:58-04:00,N/A,No new product announcement in the SEC 8-K filing.
+Alphabet Inc.,GOOGL,2016-04-12T08:48:00-04:00,Exchange Offers and Consent Solicitations,"Alphabet Inc. issued a press release on April 12, 2016, regarding its exchange offers and consent solicitations."
+Alphabet Inc.,GOOGL,2016-02-01T16:01:27-05:00,N/A,No new product announcement in the SEC 8-K filing.
+Google Inc.,GOOGL,2015-11-19T16:16:03-05:00,"bebop Technologies, Inc. Acquisition","Google announced the acquisition of bebop Technologies, Inc., a Delaware corporation developing an enterprise application platform."
+Google Inc.,GOOGL,2015-10-22T16:29:57-04:00,N/A,No new product announcement in the SEC 8-K filing.
